@@ -1,3 +1,9 @@
+ # Личный проект «What-to-watch»
+
+* Студент: [Ольга Кашина](https://up.htmlacademy.ru/profession/backender/1/php-3/1/user/1835689).
+* Наставник: [Вадим Занфир](https://up.htmlacademy.ru/profession/backender/1/php-3/1/user/2123177).
+
+
 # Руководство по работе с проектом
 
 Данный проект создан с помощью [Create React App](https://github.com/facebook/create-react-app).
